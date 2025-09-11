@@ -1,0 +1,3 @@
+[submodule "ECAD_my_GOST_lib"]
+	path = ECAD_my_GOST_lib
+	url = https://github.com/std010/ECAD_my_GOST_lib.git
