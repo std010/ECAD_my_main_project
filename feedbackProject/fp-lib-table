@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "promicro")(type "KiCad")(uri "/home/qwerty/Документы/Projects/KiCad-Bauman/workspace/ECAD_my_main_project/promicro_library/promicro.pretty")(options "")(descr ""))
+)
