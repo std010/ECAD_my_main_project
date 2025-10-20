@@ -447,7 +447,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "ArduinoPCB"
+    ],
     "pinned_symbol_libs": [
       "gostAmplifiers",
       "gostArduino",

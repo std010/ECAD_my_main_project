@@ -5949,7 +5949,7 @@
 			)
 		)
 		(property "Value" "100 к"
-			(at 165.5 133.58 90)
+			(at 165.5 133.5 90)
 			(effects
 				(font
 					(face "GOST type A")
@@ -6216,7 +6216,7 @@
 		(dnp no)
 		(uuid "33db33fe-4765-4268-9c29-266692015d5a")
 		(property "Reference" "XP1"
-			(at 70 84.5 90)
+			(at 69.5 85 90)
 			(effects
 				(font
 					(face "GOST type A")
@@ -6772,7 +6772,7 @@
 			)
 		)
 		(property "Value" "0,1 мк"
-			(at 24 156.5 90)
+			(at 24 157 90)
 			(effects
 				(font
 					(face "GOST type A")
@@ -7175,7 +7175,7 @@
 		(dnp no)
 		(uuid "a8554e67-ac3f-4c00-85ad-cb4e0d8a2dc5")
 		(property "Reference" "R1"
-			(at 99.5 143 90)
+			(at 98 143 90)
 			(effects
 				(font
 					(face "GOST type A")
@@ -7185,7 +7185,7 @@
 			)
 		)
 		(property "Value" "3,3 к"
-			(at 96 147 90)
+			(at 95.5 147 90)
 			(effects
 				(font
 					(face "GOST type A")
@@ -7869,7 +7869,7 @@
 			)
 		)
 		(property "Value" "Molex kk 254"
-			(at 180 199.5 0)
+			(at 180.5 200 0)
 			(effects
 				(font
 					(face "GOST type A")
@@ -8144,7 +8144,7 @@
 		(dnp no)
 		(uuid "e1e56385-d80c-4a5d-a75c-cdf2b9cd3588")
 		(property "Reference" "XS1"
-			(at 83 185 0)
+			(at 82 185 0)
 			(effects
 				(font
 					(face "GOST type A")
@@ -8154,7 +8154,7 @@
 			)
 		)
 		(property "Value" "USB тип C"
-			(at 78.01 190.1649 0)
+			(at 77 190 0)
 			(effects
 				(font
 					(face "GOST type A")
